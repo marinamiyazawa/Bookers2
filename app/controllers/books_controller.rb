@@ -12,7 +12,6 @@ class BooksController < ApplicationController
 		redirect_to book_path(@book)
 	else
 		@books = Book.all
-		flash[:notice] = 'created error'
 		render "index"
 	    end
 	end
@@ -39,7 +38,6 @@ class BooksController < ApplicationController
 		flash[:notice] = 'You have updated book successfully.'
 		redirect_to book_path(@book)
 	else
-		flash[:notice] = 'updated error'
 		render "edit"
 	    end
 	end
