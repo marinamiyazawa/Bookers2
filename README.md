@@ -1,24 +1,68 @@
-# README
+README.md
+# Bookers２
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+本の投稿サイトです。
 
-Things you may want to cover:
+## 簡単な説明
 
-* Ruby version
+bookers2ではユーザー同士で本の投稿、閲覧ができます。
+またいいねやコメント、フォロー機能を通してユーザー同士のコミュニケーションを図ることができます。
 
-* System dependencies
+## 機能
 
-* Configuration
+- 機能1（UI/計算 etc ...）
+- 機能2
+- 機能3
+- ...
 
-* Database creation
+他の機能はこちらを参照して下さい。`awesome-tool --help`.
 
-* Database initialization
+## 必要要件
 
-* How to run the test suite
+- 要件
+- 要件
+- 要件
+- ...
 
-* Services (job queues, cache servers, search engines, etc.)
+## 使い方
 
-* Deployment instructions
+1. 使い方
+2. 使い方
+3. 使い方
 
-* ...
+## インストール
+
+```
+$ git clone https://github.com/TomoakiTANAKA/awesome-tool
+$ cd awesome-tool
+$ sh setup.sh
+$ ~do anything~
+```
+
+## テスト
+
+1. 使い方
+2. 使い方
+3. 使い方
+
+## デプロイ
+
+1. デプロイ
+2. デプロイ
+3. デプロイ
+
+## その他
+
+その他その他その他その他
+その他その他その他その他
+その他その他その他その他
+その他その他その他その他
+
+## 作者
+
+[@TanakanoAnchan](https://twitter.com/TanakanoAnchan)
+mail to: xxxx@mail.com
+
+## ライセンス
+
+[MIT](http://TomoakiTANAKA.mit-license.org)</blockquote>
